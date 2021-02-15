@@ -1,3 +1,5 @@
+/*   Hecho por: Axel Manzanilla
+Poner el archivo "menu.txt" en la misma carpeta que el codigo fuente   */
 #include <iostream>
 #include <fstream>
 #include <string>
